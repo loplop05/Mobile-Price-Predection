@@ -1,4 +1,4 @@
-**Mobile Price Prediction 
+**Mobile Price Prediction**
 
 A Machine Learning project that predicts the price range of mobile phones based on their hardware and software specifications using classification algorithms.
 
@@ -14,7 +14,9 @@ The target variable represents four different price ranges:
 1 → Medium Cost
 2 → High Cost
 3 → Very High Cost
-🚀 Solution Overview
+
+ 
+ **Solution Overview
 
 This project solves the problem using a complete Machine Learning workflow:
 
